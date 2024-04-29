@@ -1,3 +1,5 @@
+## Introduction
+This is the prediction job for CAIL2023 stage 3 contest in task of similar case retrieval.
 ## 数据预处理
 首先您需要先运行SCR-Preprocess中的process4supervised文件
 在完成数据预处理后，输出的文件在output-supervised中  
